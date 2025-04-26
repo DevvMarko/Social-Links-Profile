@@ -57,3 +57,7 @@ body{
     position: absolute;
     bottom: 5px;
 }
+.attribution a{
+    color: hsl(75, 94%, 57%);
+    
+}
